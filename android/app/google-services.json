@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "290765286573",
+    "project_id": "shreetestv1",
+    "storage_bucket": "shreetestv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290765286573:android:10f7d9fc5dae23ea6aea24",
+        "android_client_info": {
+          "package_name": "com.example.shree_test_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290765286573-a7uofcr1k1gsfbgo06mk89k3n9oln2ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shree_test_v1",
+            "certificate_hash": "6e0bfd5a6cd0b3a40c78cff36362fe83c4540c36"
+          }
+        },
+        {
+          "client_id": "290765286573-sba3abd7raka3h74omfoe0lo5rrbsd5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA5DAy74sY9wGL6dcXXip8pbsfCaA3Pj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290765286573-sba3abd7raka3h74omfoe0lo5rrbsd5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
